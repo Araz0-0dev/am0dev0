@@ -1,3 +1,4 @@
+![logo](https://i.redd.it/n8agw6z2smyb1.gif)
 <h1 align="center">Hi 👋, I'm Araz</h1>
 <h3 align="center">A software, web and AI developer from Iran</h3>
 <img align="right" alt="AM" width ="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
